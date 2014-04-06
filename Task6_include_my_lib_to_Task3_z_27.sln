@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Task6_include_my_lib_to_Task3_z_27", "Task6_include_my_lib_to_Task3_z_27\Task6_include_my_lib_to_Task3_z_27.vcxproj", "{3A52FB4F-89C8-492B-9957-BD95DEB9E1AF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3A52FB4F-89C8-492B-9957-BD95DEB9E1AF}.Debug|Win32.ActiveCfg = Debug|Win32
+		{3A52FB4F-89C8-492B-9957-BD95DEB9E1AF}.Debug|Win32.Build.0 = Debug|Win32
+		{3A52FB4F-89C8-492B-9957-BD95DEB9E1AF}.Release|Win32.ActiveCfg = Release|Win32
+		{3A52FB4F-89C8-492B-9957-BD95DEB9E1AF}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
